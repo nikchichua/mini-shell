@@ -1,2 +1,3 @@
 # Build and execute using Make.
-- make clean; make
+- To build use: "make"
+- To execute use: "./shell"
